@@ -1,0 +1,12 @@
+venv/
+.env
+node_modules/
+chroma_db/
+*.db
+__pycache__/
+.pytest_cache/
+dist/
+audio_cache/
+evidence/
+numpy_index/
+

@@ -1,0 +1,17 @@
+# Install CPU-only PyTorch FIRST (saves GBs):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn[standard]
+websockets
+python-multipart
+python-dotenv
+pydantic-settings
+sqlalchemy
+chromadb
+FlagEmbedding
+rank-bm25
+openai
+httpx
+edge-tts
+pypdf
+pytest
